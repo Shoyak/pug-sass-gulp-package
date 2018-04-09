@@ -5,3 +5,5 @@ function gulpBuild() {
     gulp sass
     gulp
 }
+
+$1
